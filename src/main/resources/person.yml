@@ -1,0 +1,12 @@
+person:
+  name: zhangsan
+  age: 12
+  boss: false
+  birth: 2017/12/12
+  maps: {v1: 12,v2: 13}
+  lists: 
+   - cat
+   - dog
+  dog:
+    name: lihong
+    age: 23
